@@ -1,0 +1,136 @@
+﻿  Cliente.cpp
+  ConexionDB.cpp
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(11,13): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(12,2): warning C4183: 'persona': falta el tipo de valor devuelto; se supone que se trata de una función miembro que devuelve 'int'
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(13,67): error C2143: error de sintaxis: falta ';' delante de '}'
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(14,12): error C2065: 'nom': identificador no declarado
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(15,14): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(15,14): error C2065: 'ape': identificador no declarado
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(16,14): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(16,14): error C2065: 'dir': identificador no declarado
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(17,13): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(17,13): error C2065: 'tel': identificador no declarado
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(18,21): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(18,21): error C2065: 'fn': identificador no declarado
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Cliente.h(3,10): error C1083: No se puede abrir el archivo incluir: 'ConexionBD.h': No such file or directory
+  (compilando archivo de origen "Cliente.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\ConexionDB.h(8,2): error C2062: tipo 'void' inesperado
+  (compilando archivo de origen "ConexionDB.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\ConexionDB.h(8,25): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
+  (compilando archivo de origen "ConexionDB.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\ConexionDB.h(12,5): error C2143: error de sintaxis: falta ';' delante de '*'
+  (compilando archivo de origen "ConexionDB.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\ConexionDB.h(12,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "ConexionDB.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\ConexionDB.h(12,21): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
+  (compilando archivo de origen "ConexionDB.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\ConexionDB.h(16,2): error C2065: 'mysql': identificador no declarado
+  (compilando archivo de origen "ConexionDB.cpp")
+  
+  mySQL_c.cpp
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(11,13): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(12,2): warning C4183: 'persona': falta el tipo de valor devuelto; se supone que se trata de una función miembro que devuelve 'int'
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(13,67): error C2143: error de sintaxis: falta ';' delante de '}'
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(14,12): error C2065: 'nom': identificador no declarado
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(15,14): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(15,14): error C2065: 'ape': identificador no declarado
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(16,14): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(16,14): error C2065: 'dir': identificador no declarado
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(17,13): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(17,13): error C2065: 'tel': identificador no declarado
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(18,21): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(18,21): error C2065: 'fn': identificador no declarado
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Cliente.h(3,10): error C1083: No se puede abrir el archivo incluir: 'ConexionBD.h': No such file or directory
+  (compilando archivo de origen "mySQL_c.cpp")
+  
+  Persona.cpp
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(11,13): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Persona.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(12,2): warning C4183: 'persona': falta el tipo de valor devuelto; se supone que se trata de una función miembro que devuelve 'int'
+  (compilando archivo de origen "Persona.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(13,67): error C2143: error de sintaxis: falta ';' delante de '}'
+  (compilando archivo de origen "Persona.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(14,12): error C2065: 'nom': identificador no declarado
+  (compilando archivo de origen "Persona.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(15,14): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Persona.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(15,14): error C2065: 'ape': identificador no declarado
+  (compilando archivo de origen "Persona.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(16,14): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Persona.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(16,14): error C2065: 'dir': identificador no declarado
+  (compilando archivo de origen "Persona.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(17,13): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Persona.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(17,13): error C2065: 'tel': identificador no declarado
+  (compilando archivo de origen "Persona.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(18,21): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Persona.cpp")
+  
+C:\Users\baril\OneDrive\Documentos\Visua_Studio\mySQL_c\mySQL_c\Persona.h(18,21): error C2065: 'fn': identificador no declarado
+  (compilando archivo de origen "Persona.cpp")
+  
